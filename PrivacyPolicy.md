@@ -1,4 +1,4 @@
-##Privacy Policy
+# Privacy Policy
 What information does the Application obtain and how is it used?
 You will not be asked to provide your personal information anytime. The Application does not collect, use, disclose, transfer, and store your personal information. But if the Application show ads, it may collect certain information automatically, including the type of mobile device you use, your mobile devices unique device ID. 
 
@@ -21,5 +21,5 @@ Changes
 This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here.
 
 Contact me
-If you have any questions regarding privacy while using the Application, or have questions about me practices, please contact me via email at hifrankhu@gmail.com
+If you have any questions regarding privacy while using the Application, or have questions about me practices, please contact me.
 
