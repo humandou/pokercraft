@@ -58,11 +58,3 @@ This app leverages a **self-developed, high-performance CFR (Counterfactual Regr
 - **Casual Play**: Enjoy high-quality games against strong AI opponents.
 
 > Level up your Hold’em the scientific way—start with **Poker Tutor**.
-
-
-
-
-
-
-
-询问 ChatGPT
