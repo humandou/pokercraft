@@ -35,7 +35,7 @@
 
 <a id="en"></a>
 
-# Welcome to “Poker Tutor”
+# Welcome to “PokerCraft”
 
 Texas Hold’em is among the most challenging domains in AI and game theory: **hidden information** and a **massive state space** make solving strategies highly complex.  
 This app leverages a **self-developed, high-performance CFR (Counterfactual Regret Minimization) optimization** combined with **dynamic programming** and **billions of real-hand samples** to build a top-tier Hold’em AI agent. With a **clean, intuitive UI**, you can freely configure match parameters to simulate realistic play. Whether for skill building, strategy testing, or casual fun, “Poker Tutor” is a **professional-grade offline** choice.
@@ -58,4 +58,4 @@ This app leverages a **self-developed, high-performance CFR (Counterfactual Regr
 - **Strategy Testing**: Validate plans across preflop/flop/turn/river.  
 - **Casual Play**: Enjoy high-quality games against strong AI opponents.
 
-> Level up your Hold’em the scientific way—start with **Poker Tutor**.
+> Level up your Hold’em the scientific way—start with **PokerCraft**.
