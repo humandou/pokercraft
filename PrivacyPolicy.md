@@ -23,8 +23,7 @@ This Privacy Policy may be updated from time to time for any reason. We will not
 Contact me
 If you have any questions regarding privacy while using the Application, or have questions about me practices, please contact me.
 
-# 隐私政策（Privacy Policy）
-
+# 隐私政策
 我们不会在任何时候要求您提供个人信息。应用不会收集、使用、披露、传输或存储您的个人信息。
 但如果应用展示广告，可能会自动收集某些信息，包括您使用的移动设备类型、以及该设备的唯一标识符（Device ID）。
 
